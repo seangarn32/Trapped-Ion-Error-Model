@@ -1,0 +1,12 @@
+Burrell:
+
+When detecting the presence/absence of a single photon, the measurement fidelity
+is dependent on the quantum efficiency (causing photons to be missed) and the “dark
+counts” of the detector (positive detections when no photon is present). Typical unfil-
+tered detection efficiencies are 85% at 660 nm, with dark counts at ∼6 000 s−1 at room
+temperature, or only 25 s−1 at cryogenic temperatures [117]. Superconducting detectors
+can reach 95% efficiency, but are relatively slow [118]. Not all detectors can measure
+photon number; most have some recovery time during which subsequent photons are not
+counted. The KLM scheme requires high-efficiency photon-number discriminating de-
+tectors; these are currently being developed, for example the visible light photon counter
+(VLPC) which has 88% quantum efficiency at 694 nm [119]
