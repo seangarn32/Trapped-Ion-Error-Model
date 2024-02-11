@@ -1,1 +1,2 @@
-Spent the week reading and collecting data
+Is it valid to normalize?
+Based on decay and no decay graphs
