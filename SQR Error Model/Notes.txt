@@ -1,2 +1,4 @@
-Is it valid to normalize?
-Based on decay and no decay graphs
+- Look at higher DC rate
+- Change collec eff
+- max fidelity change
+- start with 10^9 /2 then mul by collection efficiency
